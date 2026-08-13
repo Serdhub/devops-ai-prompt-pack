@@ -1,0 +1,33 @@
+﻿# Markdown / Documentation repository
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Private / internal files - never commit these
+*.env
+*.secrets
+*_local.*
+local.*
+
+# Internal product files - not for public repository
+DEVOPS_AI_PROMPT_PACK_V1_FINAL.md
+DEVOPS_AI_PROMPT_PACK_V1_OPENSHIFT.md
+DEVOPS_AI_PROMPT_PACK_V1_ENRICHED.md
+DEVOPS_AI_PROMPT_PACK_V1_CLEAN.md
+_enrich_data.*
+AUDIT.md
+KEEP_LIST.md
+OpportunityBoard.md
