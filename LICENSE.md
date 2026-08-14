@@ -43,7 +43,7 @@ The full legal text of CC BY-NC-ND 4.0 is available at:
 
 ## Full product
 
-The complete DevOps AI Prompt Pack (37 prompts) is a commercial product available at [phoenixplatform.gumroad.com](https://phoenixplatform.gumroad.com/). All rights reserved.
+The complete DevOps AI Prompt Pack (37 prompts) is a commercial product available at [phoenixplatform.gumroad.com/l/devops-ai-prompt-pack](https://phoenixplatform.gumroad.com/l/devops-ai-prompt-pack). All rights reserved.
 
 The sample content in this repository does not constitute or substitute the full product. Redistribution of this sample as a standalone commercial product is prohibited under the terms above.
 
