@@ -2,7 +2,7 @@
 
 ## DevOps AI Prompt Pack — Free Sample
 
-Copyright (c) 2025 Phoenix Labs
+Copyright (c) 2025 Serdhub
 
 ---
 
@@ -18,7 +18,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ### Under the following terms
 
-- **Attribution** — You must give appropriate credit to Phoenix Labs, provide a link to this repository, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests Phoenix Labs endorses you or your use.
+- **Attribution** — You must give appropriate credit to Serdhub, provide a link to this repository, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests Serdhub endorses you or your use.
 - **NonCommercial** — You may not use the material for commercial purposes. This includes selling, bundling, or redistributing this content as part of a paid product, paid service, or paid resource of any kind.
 - **NoDerivatives** — If you remix, transform, or build upon this material, you may not distribute the modified material.
 
@@ -43,10 +43,10 @@ The full legal text of CC BY-NC-ND 4.0 is available at:
 
 ## Full product
 
-The complete DevOps AI Prompt Pack (37 prompts) is a commercial product available at [phoenixplatform.gumroad.com/l/devops-ai-prompt-pack](https://phoenixplatform.gumroad.com/l/devops-ai-prompt-pack). All rights reserved.
+The complete DevOps AI Prompt Pack (37 prompts) is a commercial product available at Serdhub distribution channel. All rights reserved.
 
 The sample content in this repository does not constitute or substitute the full product. Redistribution of this sample as a standalone commercial product is prohibited under the terms above.
 
 ---
 
-*Phoenix Labs · LAB-001 · 2025*
+*Serdhub · LAB-001 · 2025*
