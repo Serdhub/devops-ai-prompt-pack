@@ -114,7 +114,7 @@ These prompts reference OpenShift-specific resources: `oc`, Routes, SCCs, OLM, M
 
 The full 37-prompt pack remains available on the existing storefront during the brand transition:
 
-**[Get the full 37-playbook DevOps AI Prompt Pack](https://phoenixplatform.gumroad.com/l/devops-ai-prompt-pack)**
+**Full pack distribution is being migrated to **Serdhub**.**
 
 The pack includes:
 - All 25 Core Prompts, 7 Bonus Prompts, and 5 OpenShift-Native Prompts
