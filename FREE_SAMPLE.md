@@ -425,4 +425,4 @@ The full pack includes:
 
 ---
 
-*Phoenix Labs · LAB-001 · DevOps AI Prompt Pack v1.0 · Free Sample*
+*Serdhub · LAB-001 · DevOps AI Prompt Pack v1.0 · Free Sample*
