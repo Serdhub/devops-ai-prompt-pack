@@ -68,4 +68,4 @@ Technical discussions only. Be precise, be verifiable, be professional.
 
 ---
 
-*Phoenix Labs · LAB-001*
+*Serdhub · LAB-001*
