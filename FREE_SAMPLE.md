@@ -1,7 +1,7 @@
 # DevOps AI Prompt Pack — Free Sample
 
 > **5 complete prompts** from the full 37-prompt pack.
-> This file is a free demonstration. The complete pack is available at [phoenixplatform.gumroad.com/l/devops-ai-prompt-pack](https://phoenixplatform.gumroad.com/l/devops-ai-prompt-pack).
+> This file is a free demonstration. Distribution of the complete pack is being migrated to **Serdhub**.
 
 ---
 
@@ -421,7 +421,7 @@ The full pack includes:
 - Complete Required Inputs, Verification Steps, and Production Warnings for every prompt
 - Index, Diagnostic Safety Rules, and Troubleshooting Methodology
 
-**[Get the full 37-playbook DevOps AI Prompt Pack](https://phoenixplatform.gumroad.com/l/devops-ai-prompt-pack)**
+Distribution of the full pack is being migrated to **Serdhub**.
 
 ---
 
