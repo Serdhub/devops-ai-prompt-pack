@@ -112,9 +112,7 @@ These prompts reference OpenShift-specific resources: `oc`, Routes, SCCs, OLM, M
 
 ## Get the full pack
 
-The full 37-prompt pack remains available on the existing storefront during the brand transition:
-
-**Full pack distribution is being migrated to **Serdhub**.**
+Distribution of the full 37-prompt pack is being migrated to **Serdhub**.
 
 The pack includes:
 - All 25 Core Prompts, 7 Bonus Prompts, and 5 OpenShift-Native Prompts
