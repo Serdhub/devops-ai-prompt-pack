@@ -2,6 +2,8 @@
 
 **Structured AI prompts for production Kubernetes and OpenShift troubleshooting.**
 
+Maintained by **Serdhub**.
+
 ---
 
 ## The problem this solves
@@ -110,7 +112,7 @@ These prompts reference OpenShift-specific resources: `oc`, Routes, SCCs, OLM, M
 
 ## Get the full pack
 
-The full 37-prompt pack is available on Gumroad:
+The full 37-prompt pack remains available on the existing storefront during the brand transition:
 
 **[Get the full 37-playbook DevOps AI Prompt Pack](https://phoenixplatform.gumroad.com/l/devops-ai-prompt-pack)**
 
@@ -143,4 +145,4 @@ See [`LICENSE.md`](./LICENSE.md) for full terms. The sample prompts are publishe
 
 ---
 
-*Phoenix Labs · LAB-001 · DevOps AI Prompt Pack v1.0*
+*Serdhub · LAB-001 · DevOps AI Prompt Pack v1.0*
